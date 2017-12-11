@@ -1,0 +1,9 @@
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\bin\Debug\BlockGame.exe.config
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\bin\Debug\BlockGame.exe
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\bin\Debug\BlockGame.pdb
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\obj\Debug\BlockGame.Form1.resources
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\obj\Debug\BlockGame.Properties.Resources.resources
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\obj\Debug\BlockGame.csproj.GenerateResource.Cache
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\obj\Debug\BlockGame.exe
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\obj\Debug\BlockGame.pdb
+C:\Users\Andross\Desktop\school_projects\C#\BlockGame\BlockGame\obj\Debug\BlockGame.csprojResolveAssemblyReference.cache

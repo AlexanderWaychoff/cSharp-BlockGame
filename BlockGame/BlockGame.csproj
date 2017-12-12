@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -87,6 +88,13 @@
     <Content Include="gas_block.png" />
     <Content Include="gold_block.png" />
     <Content Include="pyramid_block.png" />
+    <None Include="Resources\cube_block.png" />
+    <None Include="Resources\diamond_block.png" />
+    <None Include="Resources\garnet_block.png" />
+    <None Include="Resources\gas_block.png" />
+    <None Include="Resources\gold_block.png" />
+    <None Include="Resources\pyramid_block.png" />
+    <None Include="Resources\sphere_block.png" />
     <Content Include="sphere_block.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

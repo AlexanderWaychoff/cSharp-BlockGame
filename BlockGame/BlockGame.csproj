@@ -95,6 +95,7 @@
     <None Include="Resources\gold_block.png" />
     <None Include="Resources\pyramid_block.png" />
     <None Include="Resources\sphere_block.png" />
+    <None Include="Resources\cursor.png" />
     <Content Include="sphere_block.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

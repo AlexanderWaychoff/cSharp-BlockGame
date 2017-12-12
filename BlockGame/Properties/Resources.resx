@@ -121,6 +121,9 @@
   <data name="gold_block" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\gold_block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sphere_block" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sphere_block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="garnet_block" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\garnet_block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -136,7 +139,7 @@
   <data name="diamond_block" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\diamond_block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="sphere_block" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sphere_block.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="cursor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cursor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
